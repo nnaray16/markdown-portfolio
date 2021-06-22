@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img src="C:\IMP\d9b168d3-4be3-413b-92dd-96f71c6f0833"> 
